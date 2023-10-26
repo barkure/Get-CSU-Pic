@@ -1,5 +1,6 @@
 # Get-CSU-Pic
 一个获取中南大学学生打卡照片的Python脚本
+使用Selenium实现
 
 Python版本为 Python3.9
 
